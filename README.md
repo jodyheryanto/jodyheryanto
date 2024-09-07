@@ -14,7 +14,7 @@ Currently working with Modern Infrastructure, but I love learn new thing in prog
     <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white&label=containerization" />
     <img src="https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white&label=Container%20Management" />
     <img src="https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white&label=%20source%20control" />
-    <img src="https://img.shields.io/badge/jenkins-blue?style=for-the-badge&logo=jenkins&logoColor=white&label=CI%2FCD" />
+    <img src="https://img.shields.io/badge/jenkins-red?style=for-the-badge&logo=jenkins&logoColor=white&label=CI%2FCD" />
     <img src="https://img.shields.io/badge/grafana-orange?style=for-the-badge&logo=grafana&logoColor=white&label=monitoring" />
 </p>
 
