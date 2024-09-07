@@ -5,6 +5,9 @@ Currently working with Modern Infrastructure, but I love learn new thing in prog
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/bash%20scripting-gray?style=for-the-badge&logo=gnubash&logoColor=white&label=%20" />
+    <img src="https://img.shields.io/badge/angular-gray?style=for-the-badge&logo=angular&logoColor=white&label=%20" />
+    <img src="https://img.shields.io/badge/vue-gray?style=for-the-badge&logo=vuedotjs&logoColor=white&label=%20" />
+    <img src="https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=white&label=%20" />
     <img src="https://img.shields.io/badge/proxmox-orange?style=for-the-badge&logo=proxmox&logoColor=white&label=OS%20management" />
     <img src="https://img.shields.io/badge/terraform-purple?style=for-the-badge&logo=terraform&logoColor=white&label=IaaC" />
     <img src="https://img.shields.io/badge/ansible-red?style=for-the-badge&logo=ansible&logoColor=white&label=automation" />
