@@ -3,14 +3,16 @@ Currently working with Modern Infrastructure, but I love learn new thing in prog
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/logo-ansible-red?style=for-the-badge&logo=ansible&label=%20" />
-    <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white&label=%20" />
-    <img src="https://img.shields.io/badge/bash%20scripting-gray?style=for-the-badge&logo=gnubash&logoColor=white&label=%20" />
-    <img src="https://img.shields.io/badge/logo-terraform-yellow?style=for-the-badge&logo=terraform&label=%20" />
-    <img src="https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white&label=%20" />
-    <img src="https://img.shields.io/badge/logo-gitlab-blue?style=for-the-badge&logo=gitlab&label=%20" />
-    <img src="https://img.shields.io/badge/logo-jenkins-green?style=for-the-badge&logo=jenkins&logoColor=black&label=%20" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/bash%20scripting-gray?style=for-the-badge&logo=gnubash&logoColor=white&label=%20" />
+    <img src="https://img.shields.io/badge/proxmox-orange?style=for-the-badge&logo=proxmox&logoColor=white&label=OS%20management" />
+    <img src="https://img.shields.io/badge/terraform-purple?style=for-the-badge&logo=terraform&logoColor=white&label=IaaC" />
+    <img src="https://img.shields.io/badge/ansible-red?style=for-the-badge&logo=ansible&logoColor=white&label=automation" />
+    <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white&label=containerization" />
+    <img src="https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white&label=Container%20Management" />
+    <img src="https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white&label=%20source%20control" />
+    <img src="https://img.shields.io/badge/jenkins-blue?style=for-the-badge&logo=jenkins&logoColor=white&label=CI%2FCD" />
+    <img src="https://img.shields.io/badge/grafana-orange?style=for-the-badge&logo=grafana&logoColor=white&label=monitoring" />
 </p>
 
 ### Stats:
