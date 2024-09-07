@@ -6,7 +6,7 @@ Currently working with Modern Infrastructure, but I love learn new thing in prog
     <img src="https://img.shields.io/badge/logo-ansible-red?style=for-the-badge&logo=ansible&label=%20" />
     <img src="https://img.shields.io/badge/logo-terraform-yellow?style=for-the-badge&logo=terraform&label=%20" />
     <img src="https://img.shields.io/badge/logo-gitlab-blue?style=for-the-badge&logo=gitlab&label=%20" />
-    <img src="https://img.shields.io/badge/logo-jenkins-gray?style=for-the-badge&logo=jenkins&logoColor=white&label=%20" />
+    <img src="https://img.shields.io/badge/logo-jenkins-green?style=for-the-badge&logo=jenkins&logoColor=black&label=%20" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
