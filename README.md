@@ -10,7 +10,7 @@ Currently working with Modern Infrastructure, but I love learn new thing in prog
     <img src="https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=white&label=%20" />
     <img src="https://img.shields.io/badge/proxmox-orange?style=for-the-badge&logo=proxmox&logoColor=white&label=OS%20management" />
     <img src="https://img.shields.io/badge/cisco-blue?style=for-the-badge&logo=cisco&logoColor=white&label=Networking" />
-    <img src="https://img.shields.io/badge/mikrotik-gray?style=for-the-badge&logo=mikrotik&logoColor=white&label=Networking" />
+    <img src="https://img.shields.io/badge/mikrotik-blue?style=for-the-badge&logo=mikrotik&logoColor=white&label=Networking" />
     <img src="https://img.shields.io/badge/terraform-purple?style=for-the-badge&logo=terraform&logoColor=white&label=IaaC" />
     <img src="https://img.shields.io/badge/ansible-red?style=for-the-badge&logo=ansible&logoColor=white&label=automation" />
     <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white&label=containerization" />
