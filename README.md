@@ -33,8 +33,8 @@ Currently working with Modern Infrastructure, but I love learn new thing in prog
 
 ### Let's connect!
 <p>
-    <a href="https://jody.my.id" target="blank"><img src="https://img.shields.io/badge/Website-https://jody.my.id-green?" /></a>
-    <a href="https://www.linkedin.com/in/jodyheryanto" target="blank"><img src="https://img.shields.io/badge/jody-heryanto?style=flat&logo=linkedin" /></a>
+    <a href="https://jody.my.id" target="blank"><img src="https://img.shields.io/badge/Website-https://jody.my.id-blue?" /></a>
+    <a href="https://www.linkedin.com/in/jodyheryanto" target="blank"><img src="https://img.shields.io/badge/in%2Fjodyheryanto-blue?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <!--
